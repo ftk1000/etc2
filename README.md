@@ -6,7 +6,7 @@
 ## Getting to Boston office
 
 * 100 Causeway Street Boston, MA 02114
-* [https://cdn.mbta.com/sites/default/files/media/route_pdfs/2024-05-20-Providence-Spring-Summer-Schedule-Updated.pdf](MBTA Schedule)
+* [MBTA Schedule](https://cdn.mbta.com/sites/default/files/media/route_pdfs/2024-05-20-Providence-Spring-Summer-Schedule-Updated.pdf)
 * [Providence/Stoughton Line | Commuter Rail | MBTA](https://www.mbta.com/schedules/CR-Providence/timetable)
 
 
